@@ -1,0 +1,2 @@
+accuracy: 0.84712
+Percentage accuracy: 84.71212
